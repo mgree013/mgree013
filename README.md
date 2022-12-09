@@ -4,7 +4,9 @@
 
 - All Repos here are in R, but I'm also turning into a bigger Python and Spark fan these days. Most of the Repos here fall into a few broad categories of stats: Time Series Analyses, Multivariate Analyses, Some Forms of Mixed Models (GLMs, GLMMs,etc..), Spatial Analyses, Network Analysis, among others.
 
-<a href=”https://www.linkedin.com/in/matthewdouglasgreen/"><img align=”left” src=”https://github.com/mgree013/images/blob/main/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+### 🌎 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewdouglasgreen/)](https://www.linkedin.com/in/matthewdouglasgreen/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Matthew_DGreen)](https://twitter.com/Matthew_DGreen)
 
 <!---
 mgree013/mgree013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
